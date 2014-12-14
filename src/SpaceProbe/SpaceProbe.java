@@ -47,7 +47,6 @@ public class SpaceProbe {
 	 * @input SpaceProbe n x1 y1 x2 y2
 	 */
 	public static void main(String[] args){
-		
 		//Error checking
 		if(args.length != 5){
 			System.out.println("Invalid number of arguments should be: SpaceProbe n x1 y1 x2 y2");
